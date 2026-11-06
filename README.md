@@ -20,6 +20,12 @@
 4. `MATLAB_Simulation/`
    * ឯកសារ Simulink (.slx) សម្រាប់ធ្វើការ Simulation ផ្ទៀងផ្ទាត់ស្ថិរភាពនៃរង្វិលជុំ (Closed-loop System & Bode Plot)។
 
+## 👨‍💻 Author
+**Beav Chhunly (Dim)**
+- 🎓 4th-Year Electronics Engineering Student at National Polytechnic Institute of Cambodia (NPIC)
+- 📧 Email: beavchhunly65@gmail.com
+- 🔗 GitHub: [@Dim2308](https://github.com/Dim2308)
+- 🌐 Portfolio: [My Engineering Portfolio](https://dim2308.github.io/engineering-portfolio/)
 ---
 
 ## 🛠️ Technologies Used (បច្ចេកវិទ្យាប្រើប្រាស់)
